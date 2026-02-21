@@ -1,0 +1,86 @@
+Waterfall 
+
+"Lansarea primei masini Tesla (Tesla Roadster)"
+
+
+1.  Analiza cerintelor (6 luni)
+
+Concept masină electrica
+Autonomie 320 km
+Viteză 200+ km/h
+
+2.  Designul masinii  (12 luni)
+
+
+Design tehnic baterie, caroserie si motor
+Design exterior si interior
+
+3.  Dezvoltare (24 luni)
+
+
+Prototip hardware
+Software si sistem bord
+
+
+4.  Testare (12 luni)
+
+Autonomie, siguranta,  rezistenta la temperaturi extreme, rezistenta la apa. 
+
+
+5.  Productie (8 luni)
+
+Linie producție
+Primele unitati
+
+
+6.  Lansare (2 luni)
+
+Eveniment oficial
+Livrari
+
+
+
+...
+
+Agile
+
+"Lansarea primului AI"
+Durata unui sprint: 2 saptamani
+
+
+Sprint 1 (2 saptamani)
+
+1)Lansarea primului AI. 
+O versiune foarte simpla.
+AI-ul răspunde la întrebări simple.
+Cream o interfata unde utilizatorul poate scrie intrebarea.
+
+Rezultat:
+Prima versiune care poate conversa dar foarte simplu.
+
+
+Sprint 2 (2 saptamani)
+
+AI-ul intelege propozitii mai lungi.
+Corecteaza greselile de scriere.
+
+Rezultat:
+Raspunsuri mai logice si mai corecte.
+
+
+Sprint 3 (2 saptamani)
+
+AI-ul ofera explicatii mai detaliate.
+AI-ul isii aminteste contextul conversatiei.
+
+Rezultat:
+Discutii mai clare.
+
+Sprint 4 (2 saptamani)
+
+Ce facem:
+Optimizam viteza.
+Facem UI-ul final si pregatim lansarea.
+
+Rezultat:
+AI versiunea 1.0 pregatit pentru lansare publica.
